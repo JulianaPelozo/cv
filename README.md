@@ -2,7 +2,7 @@
 
 Site pessoal em página única (one-page), desenvolvido para apresentar minha trajetória profissional e acadêmica na transição da área de Administração para Tecnologia.
 
-🔗 **Demo:** _adicione aqui o link do GitHub Pages depois de publicar (veja seção "Publicar no GitHub Pages")_
+**Site:** https://julianapelozo.github.io/cv/
 
 ## Sobre
 
@@ -29,7 +29,8 @@ O site reúne:
 
 ```
 .
-├── index.html      # site completo (HTML + CSS embutido, imagens em base64)
+├── index.html
+├── assets/juliana-pp-tec.png
 └── README.md
 ```
 
@@ -38,8 +39,8 @@ O site reúne:
 Não é necessário instalar nada. Basta baixar o repositório e abrir o arquivo `index.html` no navegador:
 
 ```bash
-git clone https://github.com/JulianaPelozo/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone https://github.com/JulianaPelozo/cv.git
+cd cv
 ```
 
 Depois é só dar duplo clique em `index.html` (ou clique direito → "Abrir com" → navegador).
@@ -57,7 +58,7 @@ E acessar `http://localhost:8000` no navegador.
 1. Envie o repositório para o GitHub (`git push`).
 2. Vá em **Settings → Pages**.
 3. Em **Source**, selecione a branch `main` e a pasta `/root`.
-4. Salve. O site ficará disponível em `https://julianapelozo.github.io/SEU-REPOSITORIO/`.
+4. Salve. O site ficará disponível em `https://julianapelozo.github.io/cv/`.
 
 ## Paleta e identidade visual
 
